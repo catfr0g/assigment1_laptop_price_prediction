@@ -1,0 +1,13 @@
+kaggle
+pyyaml
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+mlflow
+catboost
+fastapi
+uvicorn
+pydantic
+gradio

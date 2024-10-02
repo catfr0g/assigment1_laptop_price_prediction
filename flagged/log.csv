@@ -1,0 +1,2 @@
+Company,TypeName,Inches,Ram,OS,Weight,Screen,ScreenW,ScreenH,Touchscreen (Yes/No),IPSpanel (Yes/No),RetinaDisplay (Yes/No),CPU_company,CPU_freq,PrimaryStorage,SecondaryStorage,PrimaryStorageType,SecondaryStorageType,GPU_company,Predicted Price (Euros),flag,username,timestamp
+Apple,Ultrabook,5,5,Windows 10,5,Full HD,4,6,Yes,No,No,Intel,4,256,0,HDD,No,Intel,"{""label"": ""1842.2831321016188"", ""confidences"": null}",,,2024-10-01 18:50:08.387296

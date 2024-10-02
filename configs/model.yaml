@@ -1,0 +1,16 @@
+random_seed: 42
+model:
+  "iterations": 500
+  "depth": 6
+  "learning_rate": 0.1
+  "loss_function": "RMSE"
+  "random_seed": 42
+
+data:
+  data_path: ./data/
+  val_size: 0.2
+  cat_columns: ['Company', 'TypeName', 'OS', 'Screen', 'Touchscreen', 'IPSpanel',
+       'RetinaDisplay', 'CPU_company', 'PrimaryStorageType',
+       'SecondaryStorageType', 'GPU_company']
+  model_save: ./models/
+  model_file: catboost_model.cbm

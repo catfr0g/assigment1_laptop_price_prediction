@@ -1,0 +1,12 @@
+dataset:
+  author: owm4096
+  name: laptop-prices
+  download_path: ./data/
+  file_name: laptop_prices
+  label: 'Price_euros'
+  drop_cols: ['CPU_model','GPU_model','Product']
+  cat_cols: ['Company', 'TypeName', 'OS', 'Screen', 'Touchscreen', 'IPSpanel',
+       'RetinaDisplay', 'CPU_company', 'PrimaryStorageType',
+       'SecondaryStorageType', 'GPU_company']
+  num_cols: ['Inches','Ram','Weight','ScreenW','ScreenH','CPU_freq','PrimaryStorage','SecondaryStorage']
+  test_size: 0.2

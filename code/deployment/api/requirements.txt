@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+catboost
+mlflow
+pydantic
+pandas
+pyyaml
